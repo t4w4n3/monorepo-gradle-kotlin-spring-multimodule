@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/.sdkman/candidates/sbt/1.6.2/bin/sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$USER_HOME$/.sdkman/candidates/java/22.0.0.2.r17-grl" />
+  </component>
+</project>

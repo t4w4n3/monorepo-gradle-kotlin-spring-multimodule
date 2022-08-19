@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/modules" />
+            <option value="$PROJECT_DIR$/modules/bff" />
+            <option value="$PROJECT_DIR$/modules/booking" />
+            <option value="$PROJECT_DIR$/modules/booking/api-adapters" />
+            <option value="$PROJECT_DIR$/modules/booking/api-model" />
+            <option value="$PROJECT_DIR$/modules/booking/bootstrap" />
+            <option value="$PROJECT_DIR$/modules/booking/domain" />
+            <option value="$PROJECT_DIR$/modules/booking/persistence-adapters" />
+            <option value="$PROJECT_DIR$/modules/booking/provider-adapters" />
+            <option value="$PROJECT_DIR$/modules/booking/vsa-acl" />
+            <option value="$PROJECT_DIR$/modules/exchange" />
+            <option value="$PROJECT_DIR$/modules/shared-libs" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/controller" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/id" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/logging" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/monitoring" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
