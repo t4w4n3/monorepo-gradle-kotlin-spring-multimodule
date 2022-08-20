@@ -1,0 +1,11 @@
+[versions]
+kotlin = "1.7.10"
+springBoot = "2.7.3"
+
+[libraries]
+kotlinGradlePlugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
+springBootGradlePlugin = { module = "org.springframework.boot:spring-boot-gradle-plugin", version.ref = "springBoot" }
+
+[bundles]
+
+[plugins]
