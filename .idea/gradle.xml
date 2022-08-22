@@ -25,6 +25,8 @@
             <option value="$PROJECT_DIR$/modules/booking/vsa-acl" />
             <option value="$PROJECT_DIR$/modules/exchange" />
             <option value="$PROJECT_DIR$/modules/shared-libs" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/business" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/clients" />
             <option value="$PROJECT_DIR$/modules/shared-libs/controller" />
             <option value="$PROJECT_DIR$/modules/shared-libs/tech" />
             <option value="$PROJECT_DIR$/modules/shared-libs/tech/aws" />

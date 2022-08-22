@@ -9,6 +9,8 @@ include(
     "modules:booking:provider-adapters",
     "modules:booking:vsa-acl",
     "modules:exchange",
+    "modules:shared-libs:business",
+    "modules:shared-libs:clients",
     "modules:shared-libs:controller",
     "modules:shared-libs:tech:id",
     "modules:shared-libs:tech:logging",
