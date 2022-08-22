@@ -10,7 +10,12 @@ include(
     "modules:booking:vsa-acl",
     "modules:exchange",
     "modules:shared-libs:controller",
-    "modules:shared-libs:id",
-    "modules:shared-libs:logging",
-    "modules:shared-libs:monitoring",
+    "modules:shared-libs:tech:id",
+    "modules:shared-libs:tech:logging",
+    "modules:shared-libs:tech:controller",
+    "modules:shared-libs:tech:jackson",
+    "modules:shared-libs:tech:tests",
+    "modules:shared-libs:tech:errors",
+    "modules:shared-libs:tech:monitoring",
+    "modules:shared-libs:tech:aws:propertysource"
 )

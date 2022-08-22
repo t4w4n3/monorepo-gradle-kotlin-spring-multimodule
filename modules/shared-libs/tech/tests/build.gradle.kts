@@ -3,5 +3,4 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":modules:shared-libs:tech:id"))
 }

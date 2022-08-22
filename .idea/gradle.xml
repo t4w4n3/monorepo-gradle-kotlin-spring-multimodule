@@ -26,9 +26,16 @@
             <option value="$PROJECT_DIR$/modules/exchange" />
             <option value="$PROJECT_DIR$/modules/shared-libs" />
             <option value="$PROJECT_DIR$/modules/shared-libs/controller" />
-            <option value="$PROJECT_DIR$/modules/shared-libs/id" />
-            <option value="$PROJECT_DIR$/modules/shared-libs/logging" />
-            <option value="$PROJECT_DIR$/modules/shared-libs/monitoring" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/aws" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/aws/propertysource" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/controller" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/errors" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/id" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/jackson" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/logging" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/monitoring" />
+            <option value="$PROJECT_DIR$/modules/shared-libs/tech/tests" />
           </set>
         </option>
       </GradleProjectSettings>
