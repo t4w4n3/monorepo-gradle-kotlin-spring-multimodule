@@ -1,5 +1,5 @@
 plugins {
-    id("fr.tawane.java-library-conventions")
+    id("fr.tawane.kotlin-library-conventions")
 }
 
 dependencies {

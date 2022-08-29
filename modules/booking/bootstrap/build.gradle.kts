@@ -1,6 +1,5 @@
 plugins {
-    id("fr.tawane.kotlin-application-conventions")
-    id("fr.tawane.kotlin-springboot-conventions")
+    id("fr.tawane.kotlin-springboot-application-conventions")
 }
 
 dependencies {
